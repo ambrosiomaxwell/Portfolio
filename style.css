@@ -1,0 +1,42 @@
+
+.banner-container{
+    margin-top: 10px;
+}
+
+
+.profile-pic{
+     
+}
+.logo{
+    width:100%;
+    float:center;
+    padding: 25px;
+    
+}
+#face{
+  padding: 25px;
+   border-radius: 100px ;
+}
+.socials{
+    margin-top: 20px;
+    margin-bottom:20px;
+
+}
+.education-area{
+    color:gray;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.about-area{
+    color:gray;
+    text-align:center;
+}
+.projects{
+    margin-top:20px;
+    color:gray;
+    padding:25px;
+}
+.title{
+    text-align: center;
+    margin-top:20px;
+}
